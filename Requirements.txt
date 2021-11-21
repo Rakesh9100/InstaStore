@@ -1,3 +1,3 @@
-## -- Use pip to install tqdm == 4.43.0
-## -- Use pip to install requests == 2.20.1
-## -- Use pip to install instaloader
+## -- Use pip3 to install tqdm == 4.43.0
+## -- Use pip3 to install requests == 2.20.1
+## -- Use pip3 to install instaloader
