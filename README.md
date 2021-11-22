@@ -11,6 +11,8 @@ And just write the Instagram username to download Profile Picture of that accoun
 
 ## Top Features
 - A or a -- Instagram Photos
+
+![](https://github.com/Rakesh9100/InstaStore/blob/master/InstaStore-Photo.gif)
 - B or b -- Instagram Videos
 - C or c -- Instagram Profile Picture
 - E or e -- Exit
