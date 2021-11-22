@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://user-images.githubusercontent.com/73993775/142762615-39e07bb5-0cec-4f3e-a687-cecdbbc1c531.gif" height="29px" width="100px">  to InstaStore !!!</p>
 
-## <p align="center">InstaStore - Instagram Photo and Video Downloader</p>
+## <p align="center">```InstaStore``` - Instagram Photo and Video Downloader</p>
 
 InstaStore is a python coded script to download Photos &amp; Videos from Instagram without any API access.
 
@@ -10,12 +10,19 @@ This is a tool, where you can just copy and paste the link of Instagram Photos a
 And just write the Instagram username to download Profile Picture of that account.
 
 ## Top Features
-- A or a -- Instagram Photos
+- ### ```A or a``` -- Instagram Photos
 
-![](https://github.com/Rakesh9100/InstaStore/blob/master/InstaStore-Photo.gif)
-- B or b -- Instagram Videos
-- C or c -- Instagram Profile Picture
-- E or e -- Exit
+![InstaStore Photo](https://user-images.githubusercontent.com/73993775/142864010-d7d2048c-4ea8-4efb-8759-993c847bf110.gif)
+
+- ### ```B or b``` -- Instagram Videos
+
+![InstaStore Video](https://user-images.githubusercontent.com/73993775/142864128-6177e11a-2a03-49bb-bd9b-3b16dff9da66.gif)
+
+- ### ```C or c``` -- Instagram Profile Picture
+
+![InstaStore Profile Picture](https://user-images.githubusercontent.com/73993775/142864206-d329f63b-e644-41a1-b4aa-b02c6372f39a.gif)
+
+- ### ```E or e``` -- Exit
 
 ## Main file
 **InstaStore.py**
