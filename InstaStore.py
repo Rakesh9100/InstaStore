@@ -19,7 +19,7 @@ def call():
         root.destroy()
           
     else :
-        mb.showinfo('Return', 'Returning to main application')
+        mb.showinfo('Return', 'Returning to Login Box')
   
 root = tk.Tk()
 root.title("Login Instagram Box")
