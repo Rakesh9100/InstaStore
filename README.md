@@ -10,6 +10,10 @@ This is a tool, where you can just copy and paste the link of Instagram Photos a
 And just write the Instagram username to download Profile Picture of that account.
 
 ## Top Features
+- ### ```Main Page```
+
+![1](https://user-images.githubusercontent.com/73993775/144720617-d16ac70c-f29a-4bdb-a665-d12ed9e8a02b.jpg)
+
 - ### ```A or a``` -- Instagram Photos
 
 ![InstaStore Photo](https://user-images.githubusercontent.com/73993775/142864010-d7d2048c-4ea8-4efb-8759-993c847bf110.gif)
