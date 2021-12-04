@@ -37,7 +37,7 @@ $ Use "cd InstaStore" in terminal
 ```
 
 ## Use Cmd or Terminal for Requirements.txt
-⁂ pip3 install requirements.txt
+⁂ pip install requirements.txt
 
 ## Contribution
 Contributions of any kind from anyone are always welcomed!!
