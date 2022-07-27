@@ -87,8 +87,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-
-### Project Contributors
+  <h2>Project Contributors ⚡</h2>
 <a href="https://github.com/Rakesh9100/InstaStore/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=Rakesh9100/InstaStore" />
 </a>
