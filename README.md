@@ -92,4 +92,4 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <img src="https://contrib.rocks/image?repo=Rakesh9100/InstaStore" />
 </a>
   
-### Contributions of any kind from anyone are always welcomed!!
+### Contributions of any kind from anyone are always welcomed 🌟!!
