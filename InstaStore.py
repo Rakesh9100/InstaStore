@@ -3,6 +3,45 @@ from tqdm import tqdm
 import requests
 import re
 import sys
+import tkinter as tk
+from tkinter import *
+from tkinter import messagebox as mb
+import webbrowser
+
+def callback(event):
+    webbrowser.open_new(event.widget.cget("text"))
+
+def call():
+    res = mb.askquestion('Exit Application', 
+                         'Do you really want to exit')
+      
+    if res == 'yes' :
+        root.destroy()
+          
+    else :
+        mb.showinfo('Return', 'Returning to Login Box')
+  
+root = tk.Tk()
+root.title("Login Instagram Box")
+
+lb1 = tk.Button(root, text = "Welcome", font=("Algerian", 21, "bold"), fg = "yellow", bg = "red")
+lb1.pack()
+
+lb2 = tk.Label(root, text = "Hey Folk, please click here to login to Instagram and proceed!!", font = ("Monotype Corsiva", 25, "bold"), fg = "green")
+lb2.pack()
+
+lb3 = tk.Label(root, text = "http://www.instagram.com", font = ("Algerian", 25, "bold"), fg="blue", cursor="hand2")
+lb3.pack()
+lb3.bind("<Button-1>", callback)
+
+lb4 = tk.Label(root, text = "Please quit application if already logged in and proceed!!", font = ("Monotype Corsiva", 25, "bold"), fg = "green")
+lb4.pack()
+
+lb5 = tk.Button(root, text = 'Quit Application', font = ("Algerian", 21, "bold"), fg = "yellow", bg = "red", command=call)
+lb5.pack()
+
+root.mainloop()
+
 
 print('''
 
@@ -27,7 +66,7 @@ def internet(url='https://www.google.com/', timeout=5):
 ##  Function to download an Instagram Photo
 def download_photo():
     
-    url = input("\nPlease enter your desired Image URL: ")
+    url = input("\nPlease enter your desired Image URL from your Instagram profile: \n")
     x = re.match(r'^(https:)[/][/]www.([^/]+[.])*instagram.com', url)
 
     try:
@@ -49,14 +88,14 @@ def download_photo():
                 block_size = 1024
                 filename = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
                 t=tqdm(total=file_size, unit='B', unit_scale=True, desc=filename, ascii=True)
-                with open(filename + '.jpg', 'wb') as f:
+                with open(filename + '.jpg', 'wb') as f:    
                     for data in file_size_request.iter_content(block_size):
                         t.update(len(data))
                         f.write(data)
                 t.close()
                 print("\nImage downloaded successfully!!")
                 print("\n          THANKS FOR VISITING!! HAVE A NICE DAY AHEAD!!\n\nKINDLY PROVIDE YOUR FEEDBACK OR CONTRIBUTIONS IN PROVIDED LINK IF INTERESTED!! ")
-                print("             https://github.com/Rakesh9100/InstaStore.git")
+                print("             https://github.com/Rakesh9100/InstaStore")
 
         else:
             print("Entered URL is not an instagram.com URL.")
@@ -66,7 +105,7 @@ def download_photo():
 ##  Function to download an Instagram Video
 def download_video():
 
-    url = input("\nPlease enter your desired Video URL: ")
+    url = input("\nPlease enter your desired Video URL from your Instagram profile: \n")
     x = re.match(r'^(https:)[/][/]www.([^/]+[.])*instagram.com', url)
 
     try:
@@ -95,7 +134,7 @@ def download_video():
                 t.close()
                 print("\nVideo downloaded successfully!!")
                 print("\n          THANKS FOR VISITING!! HAVE A NICE DAY AHEAD!!\n\nKINDLY PROVIDE YOUR FEEDBACK OR CONTRIBUTIONS IN PROVIDED LINK IF INTERESTED!! ")
-                print("             https://github.com/Rakesh9100/InstaStore.git")
+                print("             https://github.com/Rakesh9100/InstaStore")
         else:
             print("Entered URL is not an instagram.com URL.")
     except AttributeError:
@@ -103,14 +142,14 @@ def download_video():
 
 ## Function to download an Instagram Profile Picture
 import instaloader
-def download_pp():
+def download_dp():
     
     ig = instaloader.Instaloader()  # Create instance
-    user = input("Enter Instagram Username: ")
+    user = input("Please enter your Instagram Username: ")
     ig.download_profile(user, profile_pic_only = True)  # download profile
     print("\nProfile Photo downloaded successfully!!")
     print("\n          THANKS FOR VISITING!! HAVE A NICE DAY AHEAD!!\n\nKINDLY PROVIDE YOUR FEEDBACK OR CONTRIBUTIONS IN PROVIDED LINK IF INTERESTED!! ")
-    print("             https://github.com/Rakesh9100/InstaStore.git")
+    print("             https://github.com/Rakesh9100/InstaStore")
 
 if internet() == True:
     try:
@@ -126,11 +165,11 @@ if internet() == True:
                     download_video()
                     input("\nPress Enter to close ")
                 if select == 'C' or select == 'c':
-                    download_pp()
+                    download_dp()
                     input("\nPress Enter to close ")
                 if select == 'E' or select == 'e':
                     print("\n          THANKS FOR VISITING!! HAVE A NICE DAY AHEAD!!\n\nKINDLY PROVIDE YOUR FEEDBACK OR CONTRIBUTIONS IN PROVIDED LINK IF INTERESTED!! ")
-                    print("             https://github.com/Rakesh9100/InstaStore.git")
+                    print("             https://github.com/Rakesh9100/InstaStore")
                     input("\nPress Enter to close ")
                     sys.exit()
                 else:
