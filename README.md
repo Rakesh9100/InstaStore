@@ -125,7 +125,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://soc.hackclubrait.co/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278831033-f1ea47c9-1e6b-4d48-a6f3-4e4eb8f8a02c.jpeg" height="140px" width="140px" alt="HSOC"></a><br><sub><b>Rakesh Roshan</b></sub>
+<a href="https://soc.hackclubrait.co/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278831033-f1ea47c9-1e6b-4d48-a6f3-4e4eb8f8a02c.jpeg" height="140px" width="140px" alt="HSOC"></a><br><sub><b>HSOC 2k22</b></sub>
 </td>
 </tr>
 </table>
