@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://user-images.githubusercontent.com/73993775/142762615-39e07bb5-0cec-4f3e-a687-cecdbbc1c531.gif" height="29px" width="100px">  to InstaStore !!</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73993775/142762615-39e07bb5-0cec-4f3e-a687-cecdbbc1c531.gif" height="32px" width="100px"></p>
+  
+# <p align="center">to InstaStore !!</p>
 
 ## <p align="center">`InstaStore` - Instagram Photo and Video Downloader</p>
 
@@ -123,7 +125,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://soc.hackclubrait.co/"><img src="https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height="140px" width="140px" alt="HSOC"></a><br><sub><b>Rakesh Roshan</b></sub>
+<a href="https://soc.hackclubrait.co/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278831033-f1ea47c9-1e6b-4d48-a6f3-4e4eb8f8a02c.jpeg" height="140px" width="140px" alt="HSOC"></a><br><sub><b>Rakesh Roshan</b></sub>
 </td>
 </tr>
 </table>
