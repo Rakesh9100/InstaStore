@@ -1,5 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73993775/142762615-39e07bb5-0cec-4f3e-a687-cecdbbc1c531.gif" height="32px" width="100px"></p>
-  
+
 # <p align="center">to InstaStore !!</p>
 
 ## <p align="center">`InstaStore` - Instagram Photo and Video Downloader</p>
@@ -37,9 +37,8 @@ And just write the Instagram username to download Profile Picture of that accoun
 
 <h2>Technology Used🚀</h2>
 
-<p>
 <a href="https://www.w3schools.com/python/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"/> </a>
-<p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -55,6 +54,7 @@ And just write the Instagram username to download Profile Picture of that accoun
 - ## `C or c` -- Instagram Profile Picture
 ![InstaStore Profile Picture](https://user-images.githubusercontent.com/73993775/142864206-d329f63b-e644-41a1-b4aa-b02c6372f39a.gif)
 - ## `E or e` -- Exit
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -104,6 +104,7 @@ git push origin <your_branch_name>
 - Congrats! 🥳 You've made your first pull request to this project repo.
 - Wait for your pull request to be reviewed and if required suggestions would be provided to improve it.
 - Celebrate 🥳 your success after your pull request is merged successfully.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -125,10 +126,11 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://soc.hackclubrait.co/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278831033-f1ea47c9-1e6b-4d48-a6f3-4e4eb8f8a02c.jpeg" height="140px" width="140px" alt="HSOC"></a><br><sub><b>HSOC 2k22</b></sub>
+<a href="https://hackclubrait.github.io/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833258-fbb80d97-009c-4c4a-87d5-44a5db357a06.png" height="140px" width="140px" alt="HSOC"></a><br><sub><b>HSOC 2k22</b></sub>
 </td>
 </tr>
 </table>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -138,7 +140,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="150px" width="150px" alt="Rakesh Roshan"></a><br><sub><b style:"color:blue;">Rakesh Roshan</b></sub><br>
+<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b><br><a href="https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
 </td>
 </tr>
 </table>
@@ -147,8 +149,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 <h2>Project Contributors⚡</h2>
 
-<a href="https://github.com/Rakesh9100/InstaStore/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Rakesh9100/InstaStore" />
-</a>
+<a href="https://github.com/Rakesh9100/InstaStore/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Rakesh9100/InstaStore"></a>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -157,4 +158,5 @@ This project and everyone participating in it is governed by the [Code of Conduc
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <h3>Contributions of any kind from anyone are always welcome🌟!!</h3>
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
